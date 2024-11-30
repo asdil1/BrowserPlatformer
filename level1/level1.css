@@ -1,0 +1,30 @@
+/* styles.css */
+body {
+    margin: 0;
+    background-image: url('../storage/tilesets/Background.png');
+    background-size: cover; /* Изображение на весь экран */
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+canvas {
+    border: 2px solid #000;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.game-header {
+    flex-direction: column; /* Располагаем элементы вертикально */
+    align-items: flex-start;
+    margin-right: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+.game-header div {
+    font-size: 18px;
+}
+

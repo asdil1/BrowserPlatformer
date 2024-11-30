@@ -1,0 +1,543 @@
+{"frames": [
+
+{
+	"filename": "Biker_attack1-0.png",
+	"frame": {"x":0,"y":206,"w":19,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":34},
+	"sourceSize": {"w":19,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_attack1-1.png",
+	"frame": {"x":19,"y":206,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":34},
+	"sourceSize": {"w":22,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_attack1-2.png",
+	"frame": {"x":41,"y":206,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+	"sourceSize": {"w":23,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_attack1-3.png",
+	"frame": {"x":64,"y":206,"w":17,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":34},
+	"sourceSize": {"w":17,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_attack1-4.png",
+	"frame": {"x":81,"y":206,"w":23,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":34},
+	"sourceSize": {"w":23,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_attack1-5.png",
+	"frame": {"x":104,"y":206,"w":17,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":34},
+	"sourceSize": {"w":17,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_idle-0.png",
+	"frame": {"x":0,"y":240,"w":19,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":34},
+	"sourceSize": {"w":19,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_idle-1.png",
+	"frame": {"x":19,"y":240,"w":20,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":34},
+	"sourceSize": {"w":20,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_idle-2.png",
+	"frame": {"x":39,"y":240,"w":20,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":34},
+	"sourceSize": {"w":20,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Biker_idle-3.png",
+	"frame": {"x":59,"y":240,"w":19,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":34},
+	"sourceSize": {"w":19,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "biker_run_left (1).png",
+	"frame": {"x":72,"y":110,"w":18,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":32},
+	"sourceSize": {"w":18,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "biker_run_left (2).png",
+	"frame": {"x":90,"y":110,"w":33,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":32},
+	"sourceSize": {"w":33,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "biker_run_left (3).png",
+	"frame": {"x":20,"y":48,"w":29,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":31},
+	"sourceSize": {"w":29,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "biker_run_left (4).png",
+	"frame": {"x":0,"y":142,"w":18,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":32},
+	"sourceSize": {"w":18,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "biker_run_left (5).png",
+	"frame": {"x":18,"y":142,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":32},
+	"sourceSize": {"w":25,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "biker_run_left.png",
+	"frame": {"x":49,"y":48,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":31},
+	"sourceSize": {"w":24,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_attack1-0.png",
+	"frame": {"x":100,"y":240,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":35},
+	"sourceSize": {"w":19,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_attack1-1.png",
+	"frame": {"x":0,"y":275,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":35},
+	"sourceSize": {"w":20,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_attack1-2.png",
+	"frame": {"x":20,"y":275,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":35},
+	"sourceSize": {"w":21,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_attack1-3.png",
+	"frame": {"x":41,"y":275,"w":14,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":35},
+	"sourceSize": {"w":14,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_attack1-4.png",
+	"frame": {"x":78,"y":240,"w":22,"h":34},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":34},
+	"sourceSize": {"w":22,"h":34},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_attack1-5.png",
+	"frame": {"x":55,"y":275,"w":14,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":14,"h":35},
+	"sourceSize": {"w":14,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_death-0.png",
+	"frame": {"x":69,"y":275,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":35},
+	"sourceSize": {"w":19,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_death-1.png",
+	"frame": {"x":0,"y":48,"w":20,"h":25},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":25},
+	"sourceSize": {"w":20,"h":25},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_death-2.png",
+	"frame": {"x":67,"y":0,"w":21,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":17},
+	"sourceSize": {"w":21,"h":17},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_death-3.png",
+	"frame": {"x":44,"y":0,"w":23,"h":13},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":13},
+	"sourceSize": {"w":23,"h":13},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_death-4.png",
+	"frame": {"x":22,"y":0,"w":22,"h":12},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":12},
+	"sourceSize": {"w":22,"h":12},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_death-5.png",
+	"frame": {"x":0,"y":0,"w":22,"h":11},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":11},
+	"sourceSize": {"w":22,"h":11},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_hurt-0.png",
+	"frame": {"x":88,"y":275,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":35},
+	"sourceSize": {"w":19,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_hurt-1.png",
+	"frame": {"x":107,"y":275,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":35},
+	"sourceSize": {"w":21,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_idle-0.png",
+	"frame": {"x":0,"y":310,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":35},
+	"sourceSize": {"w":19,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_idle-1.png",
+	"frame": {"x":19,"y":310,"w":19,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":35},
+	"sourceSize": {"w":19,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_idle-2.png",
+	"frame": {"x":38,"y":310,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":35},
+	"sourceSize": {"w":20,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_idle-3.png",
+	"frame": {"x":58,"y":310,"w":20,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":35},
+	"sourceSize": {"w":20,"h":35},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_run-0.png",
+	"frame": {"x":43,"y":142,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":20,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_run-1.png",
+	"frame": {"x":73,"y":48,"w":19,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":31},
+	"sourceSize": {"w":19,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_run-2.png",
+	"frame": {"x":92,"y":48,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":31},
+	"sourceSize": {"w":28,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_run-3.png",
+	"frame": {"x":63,"y":142,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_run-4.png",
+	"frame": {"x":0,"y":79,"w":23,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":31},
+	"sourceSize": {"w":23,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Cyborg_run-5.png",
+	"frame": {"x":23,"y":79,"w":19,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":31},
+	"sourceSize": {"w":19,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cyborg_run_left (1).png",
+	"frame": {"x":42,"y":79,"w":23,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":23,"h":31},
+	"sourceSize": {"w":23,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cyborg_run_left (2).png",
+	"frame": {"x":95,"y":142,"w":32,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
+	"sourceSize": {"w":32,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cyborg_run_left (3).png",
+	"frame": {"x":65,"y":79,"w":28,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":28,"h":31},
+	"sourceSize": {"w":28,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cyborg_run_left (4).png",
+	"frame": {"x":93,"y":79,"w":19,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":31},
+	"sourceSize": {"w":19,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cyborg_run_left (5).png",
+	"frame": {"x":0,"y":174,"w":20,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":32},
+	"sourceSize": {"w":20,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "cyborg_run_left.png",
+	"frame": {"x":0,"y":110,"w":19,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":31},
+	"sourceSize": {"w":19,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "Locker4.png",
+	"frame": {"x":78,"y":310,"w":32,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":36},
+	"sourceSize": {"w":32,"h":36},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sprite (1).png",
+	"frame": {"x":20,"y":174,"w":18,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":32},
+	"sourceSize": {"w":18,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sprite (2).png",
+	"frame": {"x":19,"y":110,"w":29,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":29,"h":31},
+	"sourceSize": {"w":29,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sprite (3).png",
+	"frame": {"x":38,"y":174,"w":33,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":33,"h":32},
+	"sourceSize": {"w":33,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sprite (4).png",
+	"frame": {"x":71,"y":174,"w":18,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":32},
+	"sourceSize": {"w":18,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sprite (5).png",
+	"frame": {"x":48,"y":110,"w":24,"h":31},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":31},
+	"sourceSize": {"w":24,"h":31},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "sprite.png",
+	"frame": {"x":89,"y":174,"w":25,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":25,"h":32},
+	"sourceSize": {"w":25,"h":32},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile000.png",
+	"frame": {"x":88,"y":0,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile001.png",
+	"frame": {"x":0,"y":24,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile002.png",
+	"frame": {"x":24,"y":24,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile003.png",
+	"frame": {"x":48,"y":24,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile004.png",
+	"frame": {"x":72,"y":24,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "tile005.png",
+	"frame": {"x":96,"y":24,"w":24,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":24,"h":24},
+	"sourceSize": {"w":24,"h":24},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritessheet1.png",
+	"format": "RGBA8888",
+	"size": {"w":128,"h":346},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:7f14ad28f721ca2949241c69648e8052:d67a59ffe47ca3b66965f23860bc5eb3:247ea2a13a8d91666c774f1284779541$"
+}
+}

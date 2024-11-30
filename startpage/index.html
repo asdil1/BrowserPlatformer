@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Game</title>
+    <link rel="stylesheet" href="../startpage/login.css">
+    <script src="../startpage/start.js"></script>
+</head>
+<body>
+  <div class="login-form">
+    <form id="loginForm" action="../level1/level1.html" method="get">
+        <h2>Вход</h2>
+        <label>
+            <input type="text" id="username" name="username" placeholder="Ваше имя" required/>
+        </label>
+        <button type="submit" onclick="saveName()">Начать</button>
+    </form>
+      <button onclick="window.location.href='../scoretable/score.html'">Таблица рекордов</button>
+  </div>
+</body>
+</html>
